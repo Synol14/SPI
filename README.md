@@ -1,4 +1,4 @@
-## ***/!\ This a fork to add prescaler managment in SPISettings class for Teensy 4.x /!\\***
+## ***This a fork to add prescaler managment in SPISettings class for Teensy 4.x***
 
 - Solution source : [forum.pjrc.com](https://forum.pjrc.com/index.php?threads/achieving-slow-10-khz-spi-clock-on-teensy-4-1-using-lpspi-tcr-prescale.73363/)
 - Code added :
